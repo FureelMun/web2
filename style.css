@@ -1,0 +1,252 @@
+.conteiner-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 23px 0px 130px 0px;
+    flex-shrink: 0;
+}
+
+header {
+    /*background: url(D:/r_p_m/web2/img/background.png), rgb(238, 237, 237) 0px 0px / 100% 100% no-repeat;*/
+    background-color: rgb(115, 137, 107);
+    width: 100%;
+    height: 1015px;
+    background-repeat: center;
+}
+
+
+.conteiner-logo {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    width: 100px;
+    height: 1015px;
+    flex-shrink: 0;
+}
+
+body {
+    margin: 0px;
+}
+
+.color-text-white {
+    color: beige;
+}
+
+.text1 {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #FFFFFF;
+    letter-spacing: 0px;
+    text-align: left;
+
+}
+
+.text2 {
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 74px;
+    color: #FFFFFF;
+    letter-spacing: 0px;
+    text-align: left;
+    font-weight: 700;
+    left: 0%;
+    right: 0%;
+    top: 10.44%;
+    bottom: 35.68%;
+
+}
+
+.text2-div {
+    width: 616px;
+    height: 222px;
+    top: 43px
+}
+
+.text1-div {
+    width: 100px;
+    height: 21px;
+}
+
+.text3-div {
+    width: 581px;
+    height: 55px;
+    top: 289px;
+}
+
+
+.text3 {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #FFFFFF;
+
+
+    left: 0%;
+    right: 5.68%;
+    top: 70.15%;
+    bottom: 16.5%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+
+.container-new {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0px 15%;
+
+
+}
+
+.title-main {
+    color: #4D533C;
+    font-family: Poppins;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 46px;
+    width: 607px;
+    height: 92px;
+    left: 166px;
+    top: 960px;
+}
+
+.subtitle1 {
+    color: #4D533C;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 34px;
+    text-transform: uppercase;
+}
+
+.subtitle2 {
+    color: rgb(33, 56, 66, 0.60);
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.sub-link {
+    color: #D4D6D4;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+.sub-link-active {
+    color: #FFD723
+}
+
+.container-cart {
+    display: flex;
+    flex-wrap: wrap;
+    width: 193px;
+    align-content: space-between;
+}
+
+.container-black-main {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1000px;
+    justify-content: space-between;
+}
+
+.footer {
+    background-color: #4D533D;
+    width: 100%;
+    height: 920px;
+    margin-top: 326px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.back {
+    /*background: url(D:/r_p_m/web2/img/footerback.png);*/
+    background-color: rgb(115, 137, 107);
+    background-repeat: round;
+    width: 100%;
+    height: 692px;
+}
+
+.d {
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+}
+
+.column {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    align-items: flex-start;
+}
+
+.hr-color {
+    background-color: #B6C197;
+    opacity: 0.3;
+}
+
+.hr-block {
+    display: flex;
+    height: 210px;
+}
+
+.address p {
+    margin: 0 px;
+}
+
+.fs {
+    font-size: 24px;
+    margin: 24px 0px 24px 0px !important;
+}
+
+.img-logo-footer img {
+    margin-right: 10px;
+}
+
+.into-text {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 38px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.address {
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+
+    color: #B6C197;
+}
+
+.logo-footer {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0px 15%;
+    display: flex;
+    justify-content: space-between;
+}
